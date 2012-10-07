@@ -1,0 +1,30 @@
+Dungeon
+-------
+
+Goal: To create a detailed, highly interactive D&D game, accessible on
+      modern platforms, both single and multi-player. Graphics are secondary
+      to game play.
+
+Platform Ideas:
+  - coffeescript / javascript
+    - advantage: works in a browser or via node.js
+    - disadvantage: not sure how this would scale
+      node.js should scale very well
+
+  - redis for regular lookups
+  - postgres for persistence
+
+  - distributed architecture, scale to hundreds of machines
+
+
+  - wait, what am i trying to do?
+
+  - single player game
+  - ios or desktop
+    -> c library can do both?
+    -> ruby?
+    -> javascript/web?
+      -> why not?
+          slowness? capacity? interactivity?
+          migrate to multiplayer?
+    -> 
