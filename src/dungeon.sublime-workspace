@@ -1,0 +1,284 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Assignmen",
+				"AssignmentSubmission"
+			],
+			[
+				"Assign",
+				"AssignmentSubmission"
+			],
+			[
+				"Courseb",
+				"CourseBoardSingleView"
+			],
+			[
+				"coursepar",
+				"coursepart_uuid"
+			],
+			[
+				"flash",
+				"flashcard_side_b"
+			],
+			[
+				"created",
+				"created_dt"
+			],
+			[
+				"course",
+				"course_part"
+			],
+			[
+				"Text",
+				"TextField"
+			],
+			[
+				"coursepart",
+				"coursepart"
+			],
+			[
+				"auto_",
+				"auto_now_add"
+			],
+			[
+				"DateTime",
+				"DateTimeField"
+			],
+			[
+				"For",
+				"ForeignKey"
+			],
+			[
+				"Enroll",
+				"EnrollmentView"
+			],
+			[
+				"get_",
+				"get_object_or_404"
+			],
+			[
+				"Ass",
+				"Assignment"
+			],
+			[
+				"ca",
+				"Category"
+			],
+			[
+				"Course",
+				"CourseDetailView"
+			],
+			[
+				"uui",
+				"uuidfield"
+			],
+			[
+				"En",
+				"Enrollment"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"GoSublime: Install/Update MarGo and Gocode"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Scovetta/Projects/Dungeon/src/hello.go",
+		"/Users/Scovetta/Downloads/view3.html",
+		"/Users/Scovetta/Desktop/Moments Captured Price List.html",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/edu/manage.py",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/edu/core/jobs/daily/khan_import.py",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/edu/core/jobs/__init__.py",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/edu/forum/models.py",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/edu/core/templatetags/usability.py",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/edu/core/templates/core/section_comments.html",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/static/js/html5.js",
+		"/Users/Scovetta/Downloads/__jquery.tablesorter/jquery.tablesorter.js",
+		"/Users/Scovetta/Downloads/__jquery.tablesorter/jquery.tablesorter.min.js",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/edu/core/templates/core/section_course_list.html",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/edu/core/models.py",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/edu/core/utils.py",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/edu/core/templates/core/course_detail.html",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/edu/settings.py",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/edu/core/templates/core/base.html",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/edu/core/views.py",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/edu/core/templates/core/course_syllabus.html",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/edu/core/urls.py",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/edu/urls.py",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/edu/core/templates/core/coursepart_detail.html",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/edu/core/templates/core/home.html",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/edu/core/templates/core/coursepart_board.html",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/edu/core/templates/core/section_assignment_list.html",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/edu/core/jobs/daily/mit_import.py",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/edu/core/jobs/daily/mit/mit_import.py",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/edu/core/jobs/khan_import.py",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/static/js/wysihtml5-0.3.0_rc2.js",
+		"/Users/Scovetta/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+		"/Users/Scovetta/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/Scovetta/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/edu/core/templates/core/category_list.html",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/edu/core/templates/core/category_detail.html",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/edu/core/templates/core/courses.html",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/edu/core/admin.py",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/edu/core/migrations/0003_auto__add_unique_test_uuid__add_unique_testquestion_uuid__add_unique_t.py",
+		"/Users/Scovetta/Projects/eclipse-workspace/Edu/app/edu/core/migrations/0001_initial.py",
+		"/Users/Scovetta/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"*.html",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"r",
+			"m",
+			"noty",
+			"modal",
+			"redactor",
+			"UUIDField",
+			"status",
+			"clearfix",
+			"ForeignKey(Category",
+			"slugify",
+			"ForeignKey(CoursePart",
+			"shadow",
+			"CourseView",
+			"syllabus",
+			"static",
+			"category_id",
+			"None",
+			"))",
+			"auto_add",
+			"auto_add_now",
+			"+",
+			"self",
+			"uuidfield(",
+			"	"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"UUIDField(",
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true
+}

@@ -85,13 +85,18 @@ a:hover { color: #036; }
    ||                                              ||
     \\ ========================================== //
 */
+body { padding-top: 55px; }
 
-
-
-
-
-
-
+ul.choices li a.btn {
+  padding-left: 2px;
+  padding-right: 2px;
+  padding-bottom: 0;
+  padding-top: 0;
+}
+ul.choices li {
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
 
 
 

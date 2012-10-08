@@ -2,12 +2,14 @@ var App = Em.Application.create();
 
 App.MyView = Em.View.extend({
   mouseDown: function() {
-    window.alert("hello world!");
+    bootbox.alert("Hello world!", function() {
+                console.log("Alert Callback");
+            });
   }
 });
 
 App.MyView2 = Em.View.extend({
   mouseDown: function() {
-    window.alert("goodbye world!");
+    GameCreation.create_character();
   }
 });
