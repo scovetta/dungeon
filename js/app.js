@@ -10,6 +10,6 @@ App.MyView = Em.View.extend({
 
 App.MyView2 = Em.View.extend({
   mouseDown: function() {
-    GameCreation.create_character();
+    GameCreation.init();
   }
 });
