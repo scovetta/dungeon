@@ -85,6 +85,14 @@ var Utils = {
     }
 }
 
+var TextSection = {
+    pushText: function(text) {
+        var div = $('<div>');
+        div.attr('class', 'text').text(text);
+        $('.game-text-scroller').append(div);
+        $('.game-text-scroller').scrollTo('max', {duration: 500, axis: 'y'});
+    }
+}
 var StaticResource = {
     alignment: ['Lawful Good',
                 'Lawful Neutral',
